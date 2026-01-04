@@ -51,7 +51,7 @@ Ce projet comprend :
 
 4.**Analytique & Reporting :** Création de rapports et tableaux de bord basés sur SQL pour fournir des insights exploitables.
 
---
+---
 ## Flux de données
 
 Le flux de données dans cette architecture représente le chemin que suivent les données depuis les systèmes sources jusqu’aux couches finales du modèle.
