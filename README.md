@@ -1,4 +1,6 @@
 # SQL-Data-Warehouse-Analyse-ventes
-Construire un entrepôt de données moderne avec SQL Server en utilisant une architecture Médaillon pour optimiser le process ETL &amp; réaliser des analyses cohérentes.
+Ce projet consiste à concevoir et implémenter un Data Warehouse de ventes en SQL Server, en suivant une architecture Medallion (Bronze / Silver / Gold).
 
-Bienvenue dans le dépôt du projet SQL Data Warehouse Analyses Ventes ! 🚀 Ce projet présente une solution complète d’entreposage de données et d’analyse, allant de la construction d’un data warehouse à la production d’insights exploitables.
+Bienvenue dans le dépôt du projet SQL Data Warehouse Analyses Ventes ! 🚀 L’objectif est de transformer des données de ventes brutes (CSV) en données structurées, nettoyées et prêtes pour l’analyse, afin de faciliter la création de tableaux de bord et d’analyses business.
+
+
