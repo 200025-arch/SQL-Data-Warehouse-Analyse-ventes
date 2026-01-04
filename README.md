@@ -43,7 +43,7 @@ Bienvenue dans le dépôt du projet SQL Data Warehouse Analyses Ventes ! 🚀 L�
 
 Ce projet comprend :
 
-1.Architecture des données : Conception d’un entrepôt de données moderne en utilisant l’architecture Medallion avec les couches Bronze, Silver et Gold.
+1** Architecture des données : Conception d’un entrepôt de données moderne en utilisant l’architecture Medallion avec les couches Bronze, Silver et Gold.
 
 2.Pipelines ETL : Extraction, transformation et chargement des données depuis les systèmes sources vers l’entrepôt.
 
