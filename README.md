@@ -14,6 +14,27 @@ Bienvenue dans le dépôt du projet SQL Data Warehouse Analyses Ventes ! 🚀 L�
 
 * Chargement via BULK INSERT
 
-* Rechargement complet (TRUNCATE + INSERT)
+* Rechargement complet (TRUNCATE)
 
 * Objectif : conserver la donnée source intacte
+
+### 🥈 Silver – Cleansed & Modeled layer
+
+* Nettoyage des données
+
+* Normalisation (clients, produits, ventes)
+
+* Gestion des types de données
+
+* Suppression des incohérences
+
+### 🥇 Gold – Analytical layer
+
+* Ajout clés primaires
+
+* Tables orientées analyse
+
+* Agrégations business
+
+* Prêtes pour Power BI / reporting
+
