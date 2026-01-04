@@ -5,3 +5,5 @@ Bienvenue dans le dépôt du projet SQL Data Warehouse Analyses Ventes ! 🚀 L�
 
 ----
 ## Architechite DATA
+
+<img width="1317" height="650" alt="Image" src="https://github.com/user-attachments/assets/287027a1-9de3-4793-9da4-6a3fca493c8f" />
