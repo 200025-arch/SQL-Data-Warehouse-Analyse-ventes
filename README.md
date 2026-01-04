@@ -10,10 +10,10 @@ Bienvenue dans le dépôt du projet SQL Data Warehouse Analyses Ventes ! 🚀 L�
 
 ### 🥉 Bronze – Raw layer
 
-** Ingestion des données CSV sans transformation
+* Ingestion des données CSV sans transformation
 
-**Chargement via BULK INSERT
+* Chargement via BULK INSERT
 
-**Rechargement complet (TRUNCATE + INSERT)
+* Rechargement complet (TRUNCATE + INSERT)
 
-**Objectif : conserver la donnée source intacte
+* Objectif : conserver la donnée source intacte
