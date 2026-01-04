@@ -56,3 +56,7 @@ Ce projet comprend :
 
 Le flux de données dans cette architecture représente le chemin que suivent les données depuis les systèmes sources jusqu’aux couches finales du modèle.
 
+<img width="1050" height="522" alt="Image" src="https://github.com/user-attachments/assets/c7b67882-ac51-4f07-8177-cde06a658d40" />
+
+
+
